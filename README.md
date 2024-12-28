@@ -67,7 +67,7 @@ Problem-solving: Active participant in LeetCode and HackerRank coding challenges
 🎉 Let's Connect!
 Feel free to reach out for collaborations, questions, or just a friendly chat about AI, coding, or gaming. I'm always open to learning and exploring new ideas!
 
-📧 Email: shaikmohammadkabeer@example.com
+📧 Email: kabeershaik3337@gmail.com
 💼 LinkedIn: Shaik Mohammad Kabeer
 🐱 GitHub: @shaikmohammadkabeer
 
