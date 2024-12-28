@@ -68,8 +68,8 @@ Problem-solving: Active participant in LeetCode and HackerRank coding challenges
 Feel free to reach out for collaborations, questions, or just a friendly chat about AI, coding, or gaming. I'm always open to learning and exploring new ideas!
 
 📧 Email: kabeershaik3337@gmail.com
-💼 LinkedIn: Shaik Mohammad Kabeer
-🐱 GitHub: @shaikmohammadkabeer
+💼 LinkedIn: https://www.linkedin.com/in/shaik-kabeer-696014318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+🐱 GitHub: https://github.com/Shaik-Kabeer-max
 
 📜 License
 This repository is licensed under the MIT License. See the LICENSE file for more details.
