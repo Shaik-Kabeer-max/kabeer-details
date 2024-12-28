@@ -9,25 +9,7 @@ Welcome to my GitHub profile! I'm Shaik Mohammad Kabeer, a third-year Computer S
 🎯 Career Objective
 I am committed to refining my skills and gaining valuable industrial experience. My goal is to master emerging technologies and methodologies that will empower me to innovate and lead in AI, Machine Learning, and Software Development.
 
-🛠 Skills
-Programming Languages
-Skill	Proficiency
-	██████████░░░ 90%
-█████████░░░░ 80%
-█████████░░░░ 80%
-███████░░░░░ 70%
-███████░░░░░ 70%
-Tools & Technologies
-Skill	Proficiency
-	██████████░░░ 90%
-	█████████░░░░ 80%
-█████████░░░░ 80%
-███████░░░░░ 70%
-AI/ML Tools
-Skill	Proficiency
-███████░░░░░ 70%
-██████░░░░░░ 60%
-📚 Projects
+V📚 Projects
 Calculator
 A simple C program to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
@@ -49,14 +31,6 @@ Neural Networks using TensorFlow and Keras.
 B.Tech in Computer Science Engineering (AI/ML)
 University Name | 2021 - Present
 Current CGPA: 8.2/10 (Ongoing)
-
-Intermediate (XII)
-Vignan Junior College, Kadapa, India | 2019 - 2021
-GPA: 63%
-
-Secondary School (X)
-Vikas E.M. High School, Kadapa, India | Graduated in 2018
-GPA: 93%
 
 🎮 Gaming & Hobbies
 Free Fire enthusiast 🎮
