@@ -33,49 +33,12 @@ I am committed to refining my skills and gaining valuable industrial experience.
 
 ---
 
-### **AI/ML Tools**
-
-| Tool           | Proficiency            |
-|----------------|------------------------|
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | 70% ███████░░░░░ |
-| ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)         | 60% ██████░░░░░░ |
-
----
-
-### **Development Tools**
-
-| Tool             | Proficiency            |
-|------------------|------------------------|
-| ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) | 80% █████████░░░░ |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)       | 70% ███████░░░░░ |
-| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)                         | 70% ███████░░░░░ |
-
----
-
-### **Operating Systems**
-
-| OS               | Proficiency            |
-|------------------|------------------------|
-| ![Linux](https://img.shields.io/badge/Linux%20(RedHat)-CC0000?style=for-the-badge&logo=linux&logoColor=white) | 80% █████████░░░░ |
-
----
-
 ### **Version Control**
 
 | Tool             | Proficiency            |
 |------------------|------------------------|
 | ![Git](https://img.shields.io/badge/Git-FFD43B?style=for-the-badge&logo=git&logoColor=black) | 90% ██████████░░░ |
 | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | 80% █████████░░░░ |
-
----
-
-### **Cloud & DevOps**
-
-| Tool             | Proficiency            |
-|------------------|------------------------|
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | 70% ███████░░░░░ |
-| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws) | 70% ███████░░░░░ |
-| ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | 60% ██████░░░░░░ |
 
 ---
 
@@ -91,12 +54,6 @@ A C program to manage books in a library. Features include adding, deleting, sea
 Student Grade Management System
 A C project for storing and managing student grades, calculating averages, and determining grade classifications.
 
-
-AI & ML Projects (Ongoing)
-Linear Regression for predicting numerical values.
-K-means Clustering for data grouping.
-Neural Networks using TensorFlow and Keras.
-
 🎓 Education
 B.Tech in Computer Science Engineering (AI/ML)
 University Name | 2021 - Present
@@ -107,13 +64,6 @@ Free Fire enthusiast 🎮
 Problem-solving: Active participant in LeetCode and HackerRank coding challenges.
 📈 GitHub Stats (Live!)
 
-Top Languages
-
-🎉 Achievements & Certifications
-🏆 RHCAS Certificate
-📜 SQL Certificate by HackerRank
-🐍 Python (Basic) Certificate by HackerRank
-🥈 2nd Rank in Cloud Project Presentation Competition
 🎉 Let's Connect!
 Feel free to reach out for collaborations, questions, or just a friendly chat about AI, coding, or gaming. I'm always open to learning and exploring new ideas!
 
