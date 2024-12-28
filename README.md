@@ -79,31 +79,6 @@ I am committed to refining my skills and gaining valuable industrial experience.
 
 ---
 
-## **Explanation**:
-
-1. **Badges**:
-   - The badges use **Shields.io** to represent the technology logos and corresponding colors.
-   - Each technology is accompanied by a percentage to show your proficiency.
-   
-2. **Tables**:
-   - I've used tables to organize the **skills** and align the **proficiency percentages** neatly.
-   - This format is easy to read and visually appealing.
-
----
-
-### How to Use:
-
-1. **Copy & Paste** this directly into your `README.md` file.
-2. Customize the **tools** and **proficiency levels** according to your actual skills.
-3. The progress bars and badges will automatically render on GitHub.
-
-### Final Look:
-This will produce a **clean, aligned, and visually appealing skills section** in your `README.md`, with each tool and technology clearly presented with logos and proficiency levels.
-
----
-
-I hope this format works perfectly for you! Let me know if you need further modifications or adjustments.
-
 V📚 Projects
 Calculator
 A simple C program to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
